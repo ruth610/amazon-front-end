@@ -1,0 +1,7 @@
+.product__detail{
+    display: flex;
+    padding-top: 110px;
+}
+.product__flexed{
+    display: flex;
+}

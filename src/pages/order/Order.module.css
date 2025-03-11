@@ -1,0 +1,22 @@
+.container{
+    padding: 110px 30px 30px 30px;
+    background-color: #efeeee;
+
+}
+.order__container{
+    background-color: #fff;
+    padding: 20px;
+}
+.order__container h2{
+    border-bottom: 2px solid #F3A847;
+    padding: 20px;
+}
+.order__container p{
+    margin: 20px;
+}
+.order__container img{
+    width: 100px !important;
+}
+.order__container div{
+    max-width: 350px !important;
+}
