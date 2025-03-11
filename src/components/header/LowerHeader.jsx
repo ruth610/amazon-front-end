@@ -1,6 +1,6 @@
 import React from 'react';
 import { Menu } from '@mui/material';
-import classes from './Header.module.css';
+import classes from './header.module.css';
 const LowerHeader = () => {
   return (
     <div className={classes.lower__container}>
