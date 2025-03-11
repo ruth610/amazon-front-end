@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { categoryImage } from './CategoryData';
 import CategoryCard from './CategoryCard';
-import classes from './category.module.css';
+import classes from './Category.module.css';
 const Category = () => {
   return (
     <div className={classes.category__container}>
